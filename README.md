@@ -11,3 +11,9 @@
 #### 我在玩的游戏：
 ##### Genshin Impact 原神
 <img src="https://genshin-card.getloli.com/rand/82609806.png" alt="GenshinImpact" />
+
+##### 其他更多
+
+steam | Origin | Ubisoft
+
+真想找我玩来私聊找我o(*￣▽￣*)o ~~不要嫌我菜QAQ~~
