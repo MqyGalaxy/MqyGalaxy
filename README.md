@@ -8,6 +8,12 @@
 
 一个小萌新，没有什么厉害的技术。逐渐发展自己！
 
+#### 我在研究的东西
+
+##### html5、css、JavaScript、Adobe Premiere/Photoshop/After Effects、Python
+
+ps. 以上大部分内容均为自己摸索，需要才去学。半吊子一个qwq。
+
 #### 我在玩的游戏：
 ##### Genshin Impact 原神
 <img src="https://genshin-card.getloli.com/rand/82609806.png" alt="GenshinImpact" />
