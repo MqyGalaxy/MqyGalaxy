@@ -16,7 +16,7 @@ ps. 以上大部分内容均为自己摸索，需要才去学。半吊子一个q
 
 #### 我在玩的游戏：
 ##### Genshin Impact 原神
-<img src="https://genshin-card.getloli.com/rand/82609806.png" alt="GenshinImpact" />
+<img src="https://genshin-card.himiku.com/rand/82609806.png" alt="GenshinImpact" />
 
 ##### 其他更多
 
