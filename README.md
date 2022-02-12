@@ -20,6 +20,6 @@ ps. 以上大部分内容均为自己摸索，需要才去学。半吊子一个q
 
 ##### 其他更多
 
-steam | Origin | Ubisoft
+steam | Origin | Uplay
 
 真想找我玩来私聊找我o(*￣▽￣*)o ~~不要嫌我菜QAQ~~
