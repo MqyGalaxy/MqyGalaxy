@@ -14,6 +14,12 @@
 
 ##### html5、css、JavaScript、Adobe Premiere/Photoshop/After Effects、Java、Python
 
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=fff)
+![css](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=000)
+![Java]()
+![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-CC00FF?style=for-the-badge&logo=adobepremierepro&logoColor=fff)
+
 ps. 以上大部分内容均为自己摸索，需要才去学。半吊子一个qwq。
 
 #### 我在玩的游戏：
