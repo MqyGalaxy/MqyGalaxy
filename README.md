@@ -10,7 +10,7 @@
 
 #### 我在研究的东西
 
-##### html5、css、JavaScript、Adobe Premiere/Photoshop/After Effects、Python
+##### html5、css、JavaScript、Adobe Premiere/Photoshop/After Effects、Java、Python
 
 ps. 以上大部分内容均为自己摸索，需要才去学。半吊子一个qwq。
 
@@ -20,6 +20,6 @@ ps. 以上大部分内容均为自己摸索，需要才去学。半吊子一个q
 
 ##### 其他更多
 
-steam | Origin | Uplay
+Steam | Origin | Uplay
 
 真想找我玩来私聊找我o(*￣▽￣*)o ~~不要嫌我菜QAQ~~
