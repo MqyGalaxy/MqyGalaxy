@@ -1,20 +1,24 @@
-![header]()
+<img src="Image/characterCard.png" alt="MoeQY" width="100%">
 
+您是第
 <img src="https://count.getloli.com/get/@MqyGalaxy?theme=moebooru" alt=":name" />
+来到我的主页的人。
+
 欢迎到访我的主页吖！
 
-#### 您可以点击下面的图像前往我的个人网站：
+-------
+
+### 关于我 | About Me
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://blog.moeqy.com/"><img src="https://cdn.jsdelivr.net/gh/MqyGalaxy/MyBlog@latest/images/blogLOGO.png" alt="MyBlog" width= "200px"></a>
   <a href="https://moeqy.com/"><img src="Image/LOGO_header3.png" alt="MoeQY" width="200px"></a>
 </div>
 
+我是 MqyGalaxy，一个爱好 ACGN 的普通人。平常做一些自己喜欢的东西。
 一个小萌新，没有什么厉害的技术。逐渐发展自己！
 
-#### 我在研究的东西
-
-##### html5、css、JavaScript、Adobe Premiere/Photoshop/After Effects、Java、Python
+### 我在研究的东西 | Learning
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=fff)
 ![css](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=fff)
@@ -27,13 +31,13 @@
 
 ps. 以上大部分内容均为自己摸索，需要才去学。半吊子一个qwq。
 
-#### 我在玩的游戏：
+### 我在玩的游戏 | Gaming
 
 ![miHoYo](https://img.shields.io/badge/-miHoYo-1E90FF?style=for-the-badge&&logoColor=fff)
-##### Genshin Impact 原神
+#### 原神 | Genshin Impact
 <img src="https://genshin-card.getloli.com/rand/82609806.png" alt="GenshinImpact" />
 
-##### 其他更多
+#### 其他更多 | More
 
 ![Steam](https://img.shields.io/badge/-Steam-191970?style=for-the-badge&logo=steam&logoColor=fff)
 ![Uplay](https://img.shields.io/badge/-Uplay-1E90FF?style=for-the-badge&logo=ubisoft&logoColor=fff)
