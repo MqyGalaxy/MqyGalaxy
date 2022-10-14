@@ -33,7 +33,6 @@ ps. 以上大部分内容均为自己摸索，需要才去学。半吊子一个q
 
 ### 我在玩的游戏 | Gaming
 
-![miHoYo](https://img.shields.io/badge/-miHoYo-1E90FF?style=for-the-badge&&logoColor=fff)
 #### 原神 | Genshin Impact
 <img src="https://genshin-card.getloli.com/rand/82609806.png" alt="GenshinImpact" />
 
@@ -42,5 +41,6 @@ ps. 以上大部分内容均为自己摸索，需要才去学。半吊子一个q
 ![Steam](https://img.shields.io/badge/-Steam-191970?style=for-the-badge&logo=steam&logoColor=fff)
 ![Uplay](https://img.shields.io/badge/-Uplay-1E90FF?style=for-the-badge&logo=ubisoft&logoColor=fff)
 ![Origin](https://img.shields.io/badge/-Origin-F56C2D?style=for-the-badge&logo=origin&logoColor=fff)
+![miHoYo](https://img.shields.io/badge/-miHoYo-1E90FF?style=for-the-badge&&logoColor=fff)
 
 真想找我玩来私聊找我o(*￣▽￣*)o ~~不要嫌我菜QAQ~~
