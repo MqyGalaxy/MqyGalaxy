@@ -42,5 +42,6 @@ ps. 以上大部分内容均为自己摸索，需要才去学。半吊子一个q
 ![Uplay](https://img.shields.io/badge/-Uplay-1E90FF?style=for-the-badge&logo=ubisoft&logoColor=fff)
 ![Origin](https://img.shields.io/badge/-Origin-F56C2D?style=for-the-badge&logo=origin&logoColor=fff)
 ![miHoYo](https://img.shields.io/badge/-miHoYo-00BFFF?style=for-the-badge&&logoColor=fff)
+![HyperGryph](https://img.shields.io/badge/-HyperGryph-000?style=for-the-badge&logoColor=fff)
 
 真想找我玩来私聊找我o(*￣▽￣*)o ~~不要嫌我菜QAQ~~
