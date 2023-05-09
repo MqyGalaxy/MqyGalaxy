@@ -11,7 +11,7 @@
 ### 关于我 | About Me
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://blog.moeqy.com/about/"><img src="https://cdn.jsdelivr.net/gh/MqyGalaxy/MyBlog@latest/images/blogLOGO.png" alt="MyBlog" width= "200px"></a>
+  <a href="https://blog.moeqy.com/about/"><img src="Image/blogLOGO-2.png" alt="MyBlog" width= "200px"></a>
   <a href="https://moeqy.com/about/"><img src="Image/LOGO_header3.png" alt="MoeQY" width="200px"></a>
 </div>
 
