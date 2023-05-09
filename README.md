@@ -29,6 +29,7 @@
 ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-CC00FF?style=for-the-badge&logo=adobepremierepro&logoColor=fff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-00BFFF?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-DA70D6?style=for-the-badge&logo=adobeaftereffects&logoColor=fff)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-F56C2D?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
 
 ps. 以上大部分内容均为自己摸索，需要才去学。半吊子一个qwq。
 
