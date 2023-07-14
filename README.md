@@ -43,7 +43,7 @@ ps. 以上大部分内容均为自己摸索，需要才去学。半吊子一个q
 ![Email](https://img.shields.io/badge/Email-mail%40moeqy.com-blue?style=for-the-badge)
 
 ![Blog](https://img.shields.io/badge/blog-blog.moeqy.com-FF69B4?style=for-the-badge&logo=blog&logoColor=fff)
-![bilibili](https://img.shields.io/badge/bilibili-%E5%B8%B8%E6%92%9E%E5%90%8D%E7%9A%84MqyGalaxy-FF69B4?style=for-the-badge&logo=bilibili&logoColor=fff)
+![bilibili](https://img.shields.io/badge/bilibili-%E4%B8%83%E7%BE%BD_MqyGalaxy-FF69B4?style=for-the-badge&logo=bilibili&logoColor=fff)
 
 ### 我在玩的游戏 | Gaming
 
