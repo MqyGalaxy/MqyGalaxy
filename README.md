@@ -1,5 +1,7 @@
 <img src="Image/characterCard.png" alt="MoeQY" width="100%">
 
+**最近正在忙于学业，如果您想联系我请通过我的邮箱联系。我会尽快恢复！**
+
 您是第
 <img src="https://count.getloli.com/get/@MqyGalaxy?theme=moebooru" alt=":name" />
 来到我的主页的人。
