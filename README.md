@@ -18,7 +18,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://blog.moeqy.com/about/"><img src="Image/blogLOGO-2.png" alt="MyBlog" width= "200px"></a>
   <a href="https://www.moeqy.com/en/about/"><img src="Image/LOGO_header3.png" alt="MOEQY" width="200px"></a>
-  <a href="https://www.moeqy.com/conceptsgame/"><img src="Image/concepts-game-blackLOGO.png" alt="CONCEPTS GAME" width="400px"></a>
+  <a href="https://www.moeqy.com/conceptsgame/"><img src="Image/concepts-game-blackLOGO.png" alt="CONCEPTS GAME" width="300px"></a>
 </div>
 
 我是 MqyGalaxy，一个爱好 ACGN 的普通人。平常做一些自己喜欢的东西。
