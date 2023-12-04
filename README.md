@@ -30,6 +30,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=000)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Vue 3](https://img.shields.io/badge/-Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-DC143C?style=for-the-badge&logoColor=000)
 ![Python](https://img.shields.io/badge/-Python-4169E1?style=for-the-badge&logo=python&logoColor=fff)
 ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-CC00FF?style=for-the-badge&logo=adobepremierepro&logoColor=fff)
